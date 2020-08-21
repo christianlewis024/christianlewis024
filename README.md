@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/christianlewis024/christianlewis024/master/gifs/Hi.gif" width="30px"></h2>
+
 
 <a href="https://www.linkedin.com/in/christianlewis92/">
   <img align="left" alt="Christian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
