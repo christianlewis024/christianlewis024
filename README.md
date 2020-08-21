@@ -19,4 +19,4 @@
 - I'm currently looking for work opportunities.
 - Skilled in HTML, CSS, JS, React, Vue, Firebase, Node, Dart, Flutter, LESS, Cypress, JEST 
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+⭐️ 
