@@ -12,7 +12,7 @@
 <br />
 
 
-### I am Ajay Singh Khalsa
+### I am Christian Lewis
 - Full Stack Web Developer.
 - Student at Lambda School 
 - Always working on side projects and fun new ideas.
